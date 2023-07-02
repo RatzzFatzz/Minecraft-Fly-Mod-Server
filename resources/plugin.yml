@@ -1,0 +1,6 @@
+name: "${name}"
+author: "${author}"
+main: "main.java.${groupId}.flymod_server.PermissionTransmitter"
+description: "${project.description}"
+version: "${version}"
+api-version: "1.13"
